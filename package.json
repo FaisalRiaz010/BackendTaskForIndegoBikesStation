@@ -1,0 +1,17 @@
+{
+  "name": "backendapiindigo",
+  "version": "1.0.0",
+  "description": "Description of your application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "FaisalRiaz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^16.1.4",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10"
+  }
+}
