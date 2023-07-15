@@ -41,7 +41,7 @@ https://indeagoapp.herokuapp.com/api/v1
 To make API requests, you can append the desired endpoints to the base URL. For example:
 
 - Retrieve the snapshot of stations with weather information: `GET https://indeagoapp.herokuapp.com/api/v1/stations`
-- Retrieve a specific station by Kiosk ID by specific time: `GET https://your-heroku-app.herokuapp.com/](https://indeagoapp.herokuapp.com)api/v1/stations/3014?at=2023-06-04T17:10:50.164Z`
+- Retrieve a specific station by Kiosk ID by specific time: `GET https://indeagoapp.herokuapp.com/api/v1/stations/3014?at=2023-06-04T17:10:50.164Z`
 
 Please note that the availability and functionality of the Heroku server may vary depending on the deployment status and configuration of your application.
 
